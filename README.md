@@ -11,3 +11,4 @@ git clone https://github.com/jessiethw/summer_school_examples.git
 ```
 
 You will then have your own copy of the code in a folder called `summer_school_examples`. We will go through each example and answers during the Summer School. You should try to complete the exercises without looking at the answers, until we go through the answers together. 
+Alisha has made these changes :)
